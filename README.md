@@ -15,8 +15,7 @@ This project was built as a hands-on networking portfolio project while preparin
 ## 📂 Packet Tracer File
 
 The complete Cisco Packet Tracer project file is available here:
-
-👉 [Download / Open Secure Enterprise Network `.pkt` file](packet-tracer/secure-enterprise-network.pkt)
+👉 [Download / Open Secure Enterprise Network `.pkt` file](packet-tracer/secure-enterprise-network..pkt)
 
 ## Project Overview
 
