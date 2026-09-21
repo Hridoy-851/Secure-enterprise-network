@@ -12,6 +12,12 @@ This project was built as a hands-on networking portfolio project while preparin
 
 ![Cisco Packet Tracer Implementation](topology/packet-tracer-screenshot.png)
 
+## 📂 Packet Tracer File
+
+The complete Cisco Packet Tracer project file is available here:
+
+👉 [Download / Open Secure Enterprise Network `.pkt` file](packet-tracer/secure-enterprise-network.pkt)
+
 ## Project Overview
 
 The network simulates a small enterprise environment with:
