@@ -456,6 +456,15 @@ Credentials used during the lab should be treated as lab-only credentials.
 
 No production credentials, secrets, or sensitive organizational information should be stored in this repository.
 
+## 👤 Author
+
+**Md. Hridoy Sheikh**  
+Final-year Computer Science and Engineering Student  
+Northern University Bangladesh
+
+- 🔗 GitHub: [Hridoy-851](https://github.com/Hridoy-851)
+- 🔗 LinkedIn: [Hridoy Sheikh](https://www.linkedin.com/in/hridoysheikh00/)
+
 ## Project Status
 
 Completed and documented.
